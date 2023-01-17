@@ -20,10 +20,8 @@ public class ByReference {
 class CallByReference {
 
     /* When you pass an object to a method, it is passed by reference.
-       Thus, when you pass this reference to a method, the parameter
-       that receives it will refer to the same object as that referred to
-       by the argument.  This method will have an effect over the attributes
-       passed as argument.
+       Thus, when you this reference will be process by the operation(s) that occur inside the method.
+       This method will have an effect over the value of the attributes passed as argument.
 
        The call tells the method to perform it operations over the attributes of the object.
 
