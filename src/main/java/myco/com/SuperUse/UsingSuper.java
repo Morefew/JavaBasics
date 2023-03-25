@@ -76,6 +76,8 @@ public class UsingSuper {
         System.out.printf("Shipping cost for shipping order no.%s: $", myShipping5.getShippingOrderNumber());
         System.out.format("%,-8.3f%n", shippingCost5);
         System.out.println();
+        char characterR = 114;
+        System.out.println(characterR);
     }
 
 }
