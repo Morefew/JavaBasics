@@ -11,11 +11,11 @@ public class WhileDoWhile {
         return minuend - subtrahend;
     }
 
-    double multiplication(double multiplicand, double multiplier) {
+    public double multiplication(double multiplicand, double multiplier) {
         return multiplicand * multiplier;
     }
 
-    double division(double dividend, double divisor) {
+    public double division(double dividend, double divisor) {
         return dividend / divisor;
     }
 
