@@ -2,7 +2,7 @@ package Tests;
 
 import java.util.Scanner;
 
-public class WhileDoWhile {
+public class While {
     public double addition(double addendFirst, double addendSecond) {
         return addendFirst + addendSecond;
     }
@@ -26,13 +26,13 @@ public class WhileDoWhile {
         double secondNumber;
         double calculatedAnswer;
         int calculationToPerform;
-        WhileDoWhile w = new WhileDoWhile();
+        While w = new While();
         Scanner in = new Scanner(System.in);
 
         // Start of the Calculator`s logic
 
         // SELECTION PANEL
-        System.out.println("           SIMPLE CALCULATOR            ");
+        System.out.println("            SIMPLE CALCULATOR             ");
         System.out.println("SELECT THE CALCULATION YOU WANT TO PERFORM");
         System.out.println("Press 1 for Addition");
         System.out.println("Press 2 for Subtraction");
