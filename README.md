@@ -1,2 +1,2 @@
 # JavaBasics
-Test exercises where I analyze the different programming concepts using Java.
+Test exercises where I analyze programming concepts applying Java.
