@@ -1,4 +1,4 @@
-package Tests;
+package myco.com.FlowControl;
 
 import java.util.Scanner;
 

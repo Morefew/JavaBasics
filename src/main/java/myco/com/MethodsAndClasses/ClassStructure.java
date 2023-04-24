@@ -1,3 +1,14 @@
+/*
+ * @created Sun / Oct / 2022
+ * @project LearningJava
+ * @author Lenny Gonzalez
+ */
+/* REFERENCES:
+Cutajar, J. (2018). Beginning Java Data Structures and Algorithms (1st ed.). PACKT Publishing Limited.
+Schildt, H. (2022). Java: The Complete Reference (12th ed.). McGraw Hill.
+Wengrow, J., &amp; MacDonald, B. (2020). A common-sense guide to data structures and algorithms:
+Level up your core programming skills (2nd ed.). The Pragmatic Bookshelf.
+ */
 package myco.com.MethodsAndClasses;
 
 public class ClassStructure {

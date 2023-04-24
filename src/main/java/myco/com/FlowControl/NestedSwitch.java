@@ -1,4 +1,4 @@
-package Tests;
+package myco.com.FlowControl;
 
 import java.util.Scanner;
 
@@ -35,7 +35,6 @@ public class NestedSwitch {
         double firstNumber;
         double secondNumber;
         double calculatedAnswer;
-        double squaredAnswer;
         int calculationToPerform;
         NestedSwitch dw = new NestedSwitch();
         Scanner in = new Scanner(System.in);
@@ -135,6 +134,7 @@ public class NestedSwitch {
                     System.out.println("Input first addend to be calculated, or 0 to exit: ");
                     firstNumber = in.nextDouble();
                 }
+                in.close();
             }
         }
     }

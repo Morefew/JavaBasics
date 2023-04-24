@@ -36,14 +36,14 @@ public class Box {
         depth = ob.depth;
     }
 
-    // constructor used when all dimensions specified
+    // constructor used when all dimensions are specified
     Box(double w, double h, double d) {
         width = w;
         height = h;
         depth = d;
     }
 
-    // constructor used when no dimensions specified
+    // constructor used when no dimensions are specified
     Box() {
         width = -1; // use -1 to indicate
         height = -1; // an uninitialized
